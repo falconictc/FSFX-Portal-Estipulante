@@ -25,3 +25,5 @@ npm run dev
 Notes
 - The frontend currently loads your original `Index2108.html` into the React app from `public/template.html`. You can progressively refactor the markup into React components in `src/`.
 - Backend exposes simple endpoints: `/api/health`, `/api/beneficiaries`, `/api/login`.
+
+Este projeto é um protótipo.
